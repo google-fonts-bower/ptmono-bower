@@ -1,0 +1,17 @@
+{
+    "name": "ptmono-googlefont",
+    "license": "OFL",
+    "authors": [
+        "ParaType"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ptmono-bower.git"
+    },
+    "description": "PT Mono font",
+    "keywords": [
+        "font",
+        "MONOSPACE"
+    ]
+}
